@@ -1,0 +1,6 @@
+model_checkpoint_path: "tbcnn.ckpt-30"
+all_model_checkpoint_paths: "tbcnn.ckpt-10"
+all_model_checkpoint_paths: "tbcnn.ckpt-15"
+all_model_checkpoint_paths: "tbcnn.ckpt-20"
+all_model_checkpoint_paths: "tbcnn.ckpt-25"
+all_model_checkpoint_paths: "tbcnn.ckpt-30"
